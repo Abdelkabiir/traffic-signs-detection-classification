@@ -33,7 +33,6 @@ traffic-sign-detection/
 │
 ├── requirements.txt          # Project dependencies
 ├── README.md                 # Project documentation
-└── LICENSE                   # License file
 ```
 
 ## Prerequisites
